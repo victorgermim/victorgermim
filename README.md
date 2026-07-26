@@ -12,16 +12,6 @@ e material de estudo.
 **Back-end** &nbsp;`Node.js` `PHP` `PostgreSQL`
 **Qualidade** &nbsp;`Playwright` `Page Objects` `CI`
 
-## Em destaque
-
-| Projeto | O que é |
-|---|---|
-| [eclipsefy-dashboard](https://github.com/victorgermim/eclipsefy-dashboard) | Dashboard em TypeScript — o projeto mais completo do perfil |
-| [torneio-suico-qa](https://github.com/victorgermim/torneio-suico-qa) | Simulador de torneio suíço + suíte Playwright que trava a regressão de um bug real |
-| [azul-marinho-v3](https://github.com/victorgermim/azul-marinho-v3) | Site institucional em PHP |
-| [obscuro-lp](https://github.com/victorgermim/obscuro-lp) | Landing page em TypeScript |
-| [sistema-renovacao](https://github.com/victorgermim/sistema-renovacao) | Sistema de renovação em TypeScript |
-| [germim-corretora](https://github.com/victorgermim/germim-corretora) | Site da corretora |
 
 ## Contato
 
